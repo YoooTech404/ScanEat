@@ -6,4 +6,5 @@ Nama Kelompok :
 2. Ardirra Yolandita (2431417036)
 
 Link Tugas : <br>
-[Laporan](https://docs.google.com/document/d/1c_fP7mpWSs5cn44WhkunMtRsTm8VXER3Ne4iE_T_OWg/edit?usp=sharing)
+[Laporan](https://docs.google.com/document/d/1c_fP7mpWSs5cn44WhkunMtRsTm8VXER3Ne4iE_T_OWg/edit?usp=sharing) <br>
+[Figma](https://www.figma.com/design/KofVyErmVMiClq3XmiPLrv/Web-Pesanan-Makanan?node-id=144-1387&t=YlYKv67XiLicPaJd-1)
