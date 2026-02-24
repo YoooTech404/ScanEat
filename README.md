@@ -1,5 +1,5 @@
 # Membuat web untuk melakukan pemesanan makanan di Restoran Pizza 
-Nama Tim :  Le Sserafim 
+Nama Tim :  Lee Sserafim 
 
 Nama Kelompok :  
 1. Mario Putra Sanjaya (2431477538)
